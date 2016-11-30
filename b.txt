@@ -1,3 +1,4 @@
 
-println
+printf("lalala");
+printf(lololol")
 
